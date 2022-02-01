@@ -1,0 +1,2 @@
+# Recommendation System
+Recommendation System is a system that seeks to predict or filter preferences according to the user’s choices. Recommendation systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. Netflix, Amazon, and other companies use recommendation systems to help their users find the right product or movie for them.
