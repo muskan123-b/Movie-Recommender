@@ -11,9 +11,11 @@ There are mainly 2 types of recommendation systems:
 
 ### About Dataset
 The first dataset, **'tmdb_5000_credits.csv'** contains the following features:-
-- movie_id - A unique identifier for each movie.
-- title - The title of the movie.
-- cast - The name of lead and supporting actors.
+
+movie_id - A unique identifier for each movie.
+
+title - The title of the movie.
+cast - The name of lead and supporting actors.
 crew - The name of Director, Editor, Composer, Writer etc.
 The second dataset, **'tmdb_5000_movies.csv'** has the following features:-
 budget - The budget in which the movie was made.
