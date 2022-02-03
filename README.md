@@ -10,7 +10,7 @@ There are mainly 2 types of recommendation systems:
 **In this project, we are building a Content-based recommendation engine for movies.**
 
 ### About Dataset
-The first dataset, **'tmdb_5000_credits.csv'** contains the following features:-
+--The first dataset, **'tmdb_5000_credits.csv'** contains the following features:-
 
 movie_id - A unique identifier for each movie.
 
@@ -20,7 +20,7 @@ cast - The name of lead and supporting actors.
 
 crew - The name of Director, Editor, Composer, Writer etc.
 
-The second dataset, **'tmdb_5000_movies.csv'** has the following features:-
+--The second dataset, **'tmdb_5000_movies.csv'** has the following features:-
 
 budget - The budget in which the movie was made.
 
