@@ -9,6 +9,9 @@ There are mainly 2 types of recommendation systems:
 
 **In this project, we are building a Content-based recommendation engine for movies.**
 
+### Source of Dataset
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
 ### About Dataset
 --The first dataset, **'tmdb_5000_credits.csv'** contains the following features:-
 
@@ -59,3 +62,4 @@ title - Title of the movie.
 vote_average - average ratings the movie recieved.
 
 vote_count - the count of votes recieved.
+
